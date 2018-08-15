@@ -1,0 +1,9 @@
+# CarefulWithThatPush
+# /.gitignore
+
+# Project Specific
+
+
+# PyCharm specific
+.idea/
+venv/
