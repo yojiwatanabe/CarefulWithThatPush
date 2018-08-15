@@ -2,8 +2,9 @@
 # /.gitignore
 
 # Project Specific
-
+careful_config.yml
 
 # PyCharm specific
+*.pyc
 .idea/
 venv/
